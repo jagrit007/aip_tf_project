@@ -1,0 +1,5 @@
+aws_region           = "us-east-1"
+availability_zones   = ["us-east-1a", "us-east-1b", "us-east-1c"]
+prefect_api_key      = "your-prefect-api-key"
+prefect_account_id   = "your-prefect-account-id"
+prefect_workspace_id = "your-prefect-workspace-id"
